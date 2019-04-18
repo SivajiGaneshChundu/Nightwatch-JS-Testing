@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="test"
+    errors="0" failures="0" hostname="" id="" package="test" skipped="0"
+    tests="4" time="14.44" timestamp="">
+  
+    <testcase name="Testing Login with successful validation - text" classname="test" time="3.610" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Testing Login with successful validation - image" classname="test" time="3.678" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Testing Login with invalid credential validation - text" classname="test" time="3.477" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Testing Login with invalid credential validation - image" classname="test" time="3.671" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
