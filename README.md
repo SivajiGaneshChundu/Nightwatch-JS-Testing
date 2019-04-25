@@ -1,10 +1,10 @@
 # Nightwatch-JS-Testing
 
 Nightwatch JS
+
 OS: LINUX UBUNTU
+
 Browser: Chrome Driver
-
-
 
 1)Install node Js
 
