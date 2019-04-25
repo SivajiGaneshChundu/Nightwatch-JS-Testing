@@ -12,13 +12,13 @@ Browser: Chrome Driver
 
 3)Init NPM (which will create the package.json file)
 
-4)now install Nightwatch JS which will create nightwatch runner in nodemodules bin folder
+4)Now install Nightwatch JS which will create nightwatch runner in nodemodules bin folder
 
-5)now install chromedriver to run the tests
+5)Now install chromedriver to run the tests
 
 6)Nightwatch json is the file where all the configuration details should be included
 
-7)also install resemble js library to add capability of taking screen shots to nightwatch js
+7)Also install resemble js library to add capability of taking screen shots to nightwatch js
 
 a) Main code sits in the TESTS folder
 
