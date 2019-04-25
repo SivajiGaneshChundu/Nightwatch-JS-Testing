@@ -7,6 +7,7 @@ Browser: Chrome Driver
 
 
 1)Install node Js
+
 2)Install npm
 3)Init NPM (which will create the package.json file)
 4)now install Nightwatch JS which will create nightwatch runner in nodemodules bin folder
