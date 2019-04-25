@@ -5,6 +5,7 @@ OS: LINUX UBUNTU
 Browser: Chrome Driver
 
 
+
 1)Install node Js
 2)Install npm
 3)Init NPM (which will create the package.json file)
